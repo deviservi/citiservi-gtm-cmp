@@ -10,7 +10,7 @@ Requires two parameters:
 
 For a given cmp url:
 
-> http://csm.citiservi.es/cmp/**m3jp6k9a**/**example.com**/cmp.js
+> http://csm.citiservi.es/cmp/m3jp6k9a/example.com/cmp.js
 
 - Partner ID: **m3jp6k9a**
 - Domain: **example.com**
