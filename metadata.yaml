@@ -1,5 +1,5 @@
 homepage: "https://github.com/deviservi/citiservi-gtm-cmp"
 documentation: "https://github.com/deviservi/citiservi-gtm-cmp/blob/main/README.md"
 versions:
-  - sha: cc834cd567ead5b2b6e2d0591b0e0f2e2303da10
-    changeNotes: Initial release.
+  - sha: 84382c3134d5e7b7a5e3047bc7810d535fee84fc
+    changeNotes: Escape params.
